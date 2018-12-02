@@ -31,7 +31,7 @@
         var d = t._dictionary = {},
             l = t._timeline = [];
         t._changeReadyState(s.LOADING);
-        new Gordon.Parser((/^\w:\/\//.test(url) ? '' : LOCATION_DIRNAME) + url, function(obj){
+        new Gordon.Parser((/^\w+:\/\//.test(url) ? '' : LOCATION_DIRNAME) + url, function(obj){
             var action = obj.action;
             if(action){ eval("obj.action = function(){ " + action + "; }"); }
             switch(obj.type){
