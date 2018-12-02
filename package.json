@@ -1,0 +1,28 @@
+{
+  "name": "gordon.js",
+  "version": "0.1.0",
+  "description": "An open source Flash™ runtime written in pure JavaScript",
+  "main": "dist/gordon.js",
+  "unpkg": "dist/gordon.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcubic/gordon.git"
+  },
+  "keywords": [
+    "flash",
+    "swf",
+    "video",
+    "movie",
+    "animation",
+    "adobe"
+  ],
+  "author": "Jakub Jankiewicz <jcubic@onet.pl> (http://jcubic.pl/jakub-jankiewicz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcubic/gordon/issues"
+  },
+  "homepage": "https://github.com/jcubic/gordon#readme"
+}
