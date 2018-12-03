@@ -1,7 +1,7 @@
 Gordon
 ======
 
-[![npm](https://img.shields.io/badge/npm-0.1.0-blue.svg)](https://www.npmjs.com/package/gordon.js)
+[![npm](https://img.shields.io/badge/npm-0.1.1-blue.svg)](https://www.npmjs.com/package/gordon.js)
 
 #### An open source Flash™ runtime written in pure JavaScript ####
 
